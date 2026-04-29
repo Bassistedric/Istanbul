@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720" width="100%" height="100%">
+<rect width="800" height="720" fill="#f3ead8"/>
+<polygon points="0.0,720.0 0.0,571.8 94.1,603.5 211.8,624.7 329.4,645.9 447.1,656.5 564.7,645.9 682.4,624.7 752.9,603.5 800.0,603.5 800.0,720.0" fill="#aed0e0" stroke="#7ba5b8" stroke-width="0.5"/>
+<polygon points="0.0,42.4 47.1,148.2 94.1,222.4 188.2,254.1 282.4,275.3 376.5,285.9 470.6,275.3 564.7,254.1 658.8,243.5 752.9,254.1 752.9,148.2 658.8,169.4 564.7,180.0 470.6,180.0 376.5,169.4 282.4,137.6 188.2,105.9 94.1,74.1 0.0,42.4" fill="#aed0e0" stroke="#7ba5b8" stroke-width="0.5"/>
+<text x="471" y="233" font-family="Georgia, serif" font-size="13" fill="#5a7a8a" font-style="italic" text-anchor="middle" letter-spacing="1">Corne d'Or</text>
+<text x="471" y="667" font-family="Georgia, serif" font-size="13" fill="#5a7a8a" font-style="italic" text-anchor="middle" letter-spacing="1">Mer de Marmara</text>
+<text x="471" y="529" font-family="Helvetica, sans-serif" font-size="9" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">SULTANAHMET</text>
+<text x="376" y="307" font-family="Helvetica, sans-serif" font-size="9" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">EMINÖNÜ</text>
+<text x="471" y="64" font-family="Helvetica, sans-serif" font-size="9" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">BEYOĞLU</text>
+<text x="141" y="455" font-family="Helvetica, sans-serif" font-size="9" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">BEYAZIT</text>
+<text x="471" y="371" font-family="Helvetica, sans-serif" font-size="8" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">SIRKECI</text>
+<text x="612" y="148" font-family="Helvetica, sans-serif" font-size="8" fill="#a89070" letter-spacing="2" text-anchor="middle" font-weight="bold" opacity="0.55">KARAKÖY</text>
+<path d="M517.6,497.6L470.6,487.1L423.5,476.5L352.9,465.9L282.4,455.3L211.8,444.7L117.6,423.5" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M517.6,497.6L470.6,487.1L423.5,476.5L352.9,465.9L282.4,455.3L211.8,444.7L117.6,423.5" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,571.8L470.6,508.2L447.1,465.9L470.6,412.9L470.6,381.2" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,571.8L470.6,508.2L447.1,465.9L470.6,412.9L470.6,381.2" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,381.2L400.0,364.2L329.4,338.8L282.4,307.1" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,381.2L400.0,364.2L329.4,338.8L282.4,307.1" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M517.6,476.5L564.7,455.3L588.2,434.1L611.8,423.5" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M517.6,476.5L564.7,455.3L588.2,434.1L611.8,423.5" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164.7,444.7L141.2,402.4L141.2,349.4L164.7,338.8" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164.7,444.7L141.2,402.4L141.2,349.4L164.7,338.8" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M235.3,451.1L235.3,402.4L258.8,349.4L282.4,317.6" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M235.3,451.1L235.3,402.4L258.8,349.4L282.4,317.6" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M282.4,328.2L305.9,317.6L329.4,296.5" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M282.4,328.2L305.9,317.6L329.4,296.5" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M329.4,275.3L352.9,243.5L376.5,211.8L376.5,180.0" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M329.4,275.3L352.9,243.5L376.5,211.8L376.5,180.0" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376.5,180.0L376.5,158.8L376.5,137.6" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376.5,180.0L376.5,158.8L376.5,137.6" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,169.4L517.6,158.8L564.7,148.2" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470.6,169.4L517.6,158.8L564.7,148.2" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376.5,137.6L423.5,148.2L517.6,154.6" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376.5,137.6L423.5,148.2L517.6,154.6" stroke="#e8dbb8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M458.8,412.9L521.8,495.9L467.7,500.1L597.2,433.7L149.4,337.8" stroke="#b91d1d" stroke-width="3" fill="none" stroke-dasharray="9,6" stroke-linecap="round" opacity="0.85"/>
+<circle cx="458.8" cy="412.9" r="20" fill="white"/>
+<circle cx="458.8" cy="412.9" r="16" fill="#b91d1d" stroke="white" stroke-width="2.5"/>
+<text x="458.8" y="418.4" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">1</text>
+<circle cx="521.8" cy="495.9" r="20" fill="white"/>
+<circle cx="521.8" cy="495.9" r="16" fill="#b91d1d" stroke="white" stroke-width="2.5"/>
+<text x="521.8" y="501.4" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">2</text>
+<circle cx="467.7" cy="500.1" r="20" fill="white"/>
+<circle cx="467.7" cy="500.1" r="16" fill="#b91d1d" stroke="white" stroke-width="2.5"/>
+<text x="467.7" y="505.6" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">3</text>
+<circle cx="597.2" cy="433.7" r="20" fill="white"/>
+<circle cx="597.2" cy="433.7" r="16" fill="#b91d1d" stroke="white" stroke-width="2.5"/>
+<text x="597.2" y="439.2" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">4</text>
+<circle cx="149.4" cy="337.8" r="20" fill="white"/>
+<circle cx="149.4" cy="337.8" r="16" fill="#b91d1d" stroke="white" stroke-width="2.5"/>
+<text x="149.4" y="343.3" font-family="Helvetica, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">5</text>
+<g>
+<rect x="25" y="672" width="190.0560224089534" height="22" fill="white" opacity="0.85" rx="3"/>
+<line x1="30" y1="690" x2="170.1" y2="690" stroke="#333" stroke-width="2"/>
+<line x1="30" y1="686" x2="30" y2="694" stroke="#333" stroke-width="2"/>
+<line x1="170.1" y1="686" x2="170.1" y2="694" stroke="#333" stroke-width="2"/>
+<text x="178" y="694" font-family="Helvetica" font-size="11" fill="#333">500 m</text>
+</g>
+<g transform="translate(750,45)">
+<circle r="22" fill="white" stroke="#333" stroke-width="1.5" opacity="0.9"/>
+<polygon points="0,-15 -6,8 0,3 6,8" fill="#b91d1d"/>
+<polygon points="0,15 -6,-8 0,-3 6,-8" fill="#555"/>
+<text y="-28" font-family="Helvetica" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">N</text>
+</g>
+</svg>
